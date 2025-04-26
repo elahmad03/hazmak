@@ -35,7 +35,7 @@ function Home() {
 
   return (
     <div className="min-h-screen bg-gray-200 dark:bg-gray-900 transition-colors">
-      <Header />
+     
 
       <main className="pt-10 lg:pt-15">
         {/* Showcase - bigger top margin */}
@@ -64,7 +64,7 @@ function Home() {
         </SectionWrapper>
       </main>
 
-      <Footer />
+      
     </div>
   );
 }
